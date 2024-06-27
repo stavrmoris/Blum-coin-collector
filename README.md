@@ -1,4 +1,4 @@
-# Blim auto miner
+# Blum auto miner
 
 A program for automatic wagering of blum minigames. It works through the API of the service.
 It runs on windows 7/10/11.
