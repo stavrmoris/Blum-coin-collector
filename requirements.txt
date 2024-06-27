@@ -1,0 +1,3 @@
+PyQt5==5.15.6
+requests==2.27.1
+qtmodern==0.3
